@@ -4,12 +4,12 @@
 	 width="400.667px" height="400.666px" viewBox="0 0 400.667 400.666" enable-background="new 0 0 400.667 400.666"
 	 xml:space="preserve">
 <circle fill="#232323" cx="200.333" cy="200" r="161"/>
-<path fill="none" stroke="#F9FF00" stroke-width="10" stroke-miterlimit="10" d="M57.4,175.086
-	C43.974,251.226,91.471,314.98,149.825,336"/>
-<path fill="none" stroke="#FF0000" stroke-width="10" stroke-miterlimit="10" d="M106.854,89.039
-	c-28.113,23.588-44.001,55.344-49.512,86.375"/>
-<path fill="none" stroke="#007511" stroke-width="10" stroke-miterlimit="10" d="M151.628,336.661
-	c40.369,14.45,85.524,10.282,121.509-10.494c62.801-36.257,97.126-122.438,53.195-198.528"/>
+<!-- <path fill="none" stroke="#F9FF00" stroke-width="10" stroke-miterlimit="10" d="M57.4,175.086
+	C43.974,251.226,91.471,314.98,149.825,336"/> -->
+<!-- <path fill="none" stroke="#FF0000" stroke-width="10" stroke-miterlimit="10" d="M106.854,89.039
+	c-28.113,23.588-44.001,55.344-49.512,86.375"/> -->
+<!-- <path fill="none" stroke="#007511" stroke-width="10" stroke-miterlimit="10" d="M151.628,336.661
+	c40.369,14.45,85.524,10.282,121.509-10.494c62.801-36.257,97.126-122.438,53.195-198.528"/> -->
 <line fill="none" stroke="#FFFFFF" stroke-width="4" stroke-miterlimit="10" x1="296.814" y1="85.02" x2="281.752" y2="102.968"/>
 <line fill="none" stroke="#FFFFFF" stroke-width="4" stroke-miterlimit="10" x1="310.03" y1="136.667" x2="330.321" y2="124.953"/>
 <line fill="none" stroke="#FFFFFF" stroke-width="4" stroke-miterlimit="10" x1="348.149" y1="173.938" x2="325.076" y2="178.006"/>
@@ -54,8 +54,7 @@
 <text transform="matrix(1 0 0 1 153.0015 302.1489)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" font-family="sans-serif" font-size="20">100</text>
 <text transform="matrix(1 0 0 1 107.1592 256.6489)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" font-family="sans-serif" font-size="20">120</text>
 <text transform="matrix(1 0 0 1 91.4746 184.6489)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" font-family="sans-serif" font-size="20">140</text>
-<text transform="matrix(1 0 0 1 125.2837 123.6489)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" font-family="sans-serif" font-size="20">160</text>
-<text transform="matrix(1 0 0 1 175.3799 242.1895)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" font-family="sans-serif" font-size="14">KNOTS</text>
-<text transform="matrix(1 0 0 1 161.3086 165.1895)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" font-family="sans-serif" font-size="14">AIR SPEED</text>
+<text transform="matrix(1 0 0 1 175.3799 242.1895)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" font-family="sans-serif" font-size="14">km/h</text>
+<text transform="matrix(1 0 0 1 161.3086 165.1895)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" font-family="sans-serif" font-size="14">PRĘDKOŚĆ</text>
 <text transform="matrix(1 0 0 1 194.6592 99.6489)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" font-family="sans-serif" font-size="20">0</text>
 </svg>
